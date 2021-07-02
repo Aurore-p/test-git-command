@@ -8,6 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('I add a new commit')
+    print('I add a new commit for check the pull with unadded file')
 
 
 # Press the green button in the gutter to run the script.
