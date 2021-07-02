@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('I add a new commit')
     print('I add a new commit for check the pull with unadded file')
+    print('I add a modification in user 2 with no commit')
 
 
 def new_funtion():
