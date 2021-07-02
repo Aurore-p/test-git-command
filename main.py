@@ -10,6 +10,7 @@ def print_hi(name):
     print('I add a new commit')
     print('I add a new commit for check the pull with unadded file')
     print('I add a modification in user 2 with no commit')
+    print('Add a parallel commit from 1')
 
 
 def new_funtion():
