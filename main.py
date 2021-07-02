@@ -11,6 +11,10 @@ def print_hi(name):
     print('I add a new commit for check the pull with unadded file')
 
 
+def new_funtion():
+    print('I add a new function but there is uncommited modifs in user 2')
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
