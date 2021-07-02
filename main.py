@@ -12,6 +12,7 @@ def print_hi(name):
     print('I add a modification in user 2 with no commit')
     print('Add a parallel commit from 1')
     print('Add a second parallel commit from 1')
+    print('Add a third parallel commit from 1')
 
 
 def new_funtion():
