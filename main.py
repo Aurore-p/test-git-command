@@ -17,6 +17,7 @@ def new_funtion():
     print('I add a new function but there is uncommited modifs in user 2')
     print('Another new commit to update with merge instead of rebase')
     print('Add a parallel commit before pull from 2')
+    print('Add a second parallel commit from 2')
 
 
 # Press the green button in the gutter to run the script.
